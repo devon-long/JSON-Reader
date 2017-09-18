@@ -1,6 +1,9 @@
-/*This script requires you to make your Google Shee public:
+/*This script reads data from a Google Sheet and ouputs the data in
+  an HTML table. For this example, I used a concert calendar.
+  This script requires you to make your Google Shee public:
   File -> Publish to the web -> Publish
 
+  You also need your sheet's ID.
   In the URL, your sheet ID is the long alphanumeric string between d/ and /edit
   example spreadsheet url: https://docs.google.com/spreadsheets/d/1wMH6KvRH8wMkacxWgYK_tVeMt2qpEscBbSa2uihpjs0/edit#gid=0
   This spreadsheet ID is used below.
